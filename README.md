@@ -1,5 +1,9 @@
 # DayAnom
 
+## Status
+
+Testing...
+
 ## Description
 
 These scripts create tc-shell scripts that do the following for 6-hourly or daily netCDF time series:
